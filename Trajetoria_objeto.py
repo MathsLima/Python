@@ -1,5 +1,5 @@
 """
-A trajetória de um projétil disparado com certa velocidade e determinado ângulo em relação ao solo pode ser calculada através da seguinte fórmula:
+A trajetória de um objeto disparado com certa velocidade e determinado ângulo em relação ao solo que pode ser calculada através da seguinte fórmula:
 """
 
 from math import radians, tan, cos
