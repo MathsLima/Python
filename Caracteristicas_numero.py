@@ -1,5 +1,5 @@
 """
-Programa de computador que mostra todas as características de um número
+Programa que mostra todas as características de um número
 e junta informações dele. Recebendo o número: 
 a. Informa se o número é positivo, negativo ou zero
 b. Se for um número inteiro positivo, deves identificar se o mesmo é par ou ímpar
